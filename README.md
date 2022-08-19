@@ -1,1 +1,1 @@
-gh repo clone hatchet19/survey-for-ugly-names
+file:///C:/Users/shalva/Desktop/hdmi/index.html
