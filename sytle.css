@@ -1,0 +1,29 @@
+h1 {
+    color: rgb(179, 87, 87);
+    background-color: rgb(78, 140, 151);
+    text-align: center;
+    width: 300px;
+    border: 5px solid rgb(5, 1, 1);
+    padding: 50px;
+    margin: auto;
+  }
+  
+  
+  form {
+    color: rgb(0, 0, 0);
+    background-color: rgb(66, 124, 143);
+    text-align: center;
+    width: 300px;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 50px;
+    margin: auto;
+  }
+  
+  p {
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    font-size:  25px;
+  }
+    
+  
+  
