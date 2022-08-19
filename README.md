@@ -1,1 +1,1 @@
-# survey-for-ugly-names
+gh repo clone hatchet19/survey-for-ugly-names
